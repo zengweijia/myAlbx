@@ -1,0 +1,15 @@
+{
+  "name": "myselfAlbx",
+  "version": "1.0.0",
+  "description": "阿里百秀首秀\r >>>>>>> 929425f4d3b51cb8835d6e04bf2f9559e0b7e50e",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
